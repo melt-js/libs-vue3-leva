@@ -6,7 +6,7 @@
     "online_version": "2026.11.10",
     "build_version": "2026.11.10",
     "platform": "unpkg",
-    "create_at": "2026-11-11T12:26:20.903Z"
+    "create_at": "2026-11-11T12:53:42.731Z"
   },
   "version": {
     "plugin_ver": "5.4.3",
@@ -15,17 +15,17 @@
     "sub_app_version": "libs-vue3-leva@2026.11.10",
     "version_tag": "2026.11.10",
     "src_map": {
-      "webDirPath": "https://melt-js.github.io/libs-vue3-leva/hel_dist",
-      "htmlIndexSrc": "https://melt-js.github.io/libs-vue3-leva/hel_dist/index.html",
+      "webDirPath": "https://melt-js.github.io/libs-vue3-leva",
+      "htmlIndexSrc": "https://melt-js.github.io/libs-vue3-leva/index.html",
       "extractMode": "all",
       "iframeSrc": "",
       "chunkCssSrcList": [
-        "https://melt-js.github.io/libs-vue3-leva/hel_dist/css/69.afeb2ccb.css"
+        "https://melt-js.github.io/libs-vue3-leva/css/69.afeb2ccb.css"
       ],
       "chunkJsSrcList": [
-        "https://melt-js.github.io/libs-vue3-leva/hel_dist/js/app.c732a198.js",
-        "https://melt-js.github.io/libs-vue3-leva/hel_dist/js/69.2f54b955.js",
-        "https://melt-js.github.io/libs-vue3-leva/hel_dist/js/app.c732a198.js"
+        "https://melt-js.github.io/libs-vue3-leva/js/app.28371c45.js",
+        "https://melt-js.github.io/libs-vue3-leva/js/69.ce4aadd3.js",
+        "https://melt-js.github.io/libs-vue3-leva/js/app.28371c45.js"
       ],
       "staticCssSrcList": [],
       "staticJsSrcList": [
@@ -45,22 +45,22 @@
           "tag": "script",
           "append": true,
           "attrs": {
-            "src": "https://melt-js.github.io/libs-vue3-leva/hel_dist/js/app.c732a198.js",
+            "src": "https://melt-js.github.io/libs-vue3-leva/js/app.28371c45.js",
             "defer": "defer"
           }
         }
       ],
       "bodyAssetList": [],
       "otherSrcList": [
-        "https://melt-js.github.io/libs-vue3-leva/hel_dist/index.html",
-        "https://melt-js.github.io/libs-vue3-leva/hel_dist/js/69.2f54b955.js.map",
-        "https://melt-js.github.io/libs-vue3-leva/hel_dist/js/app.c732a198.js.map"
+        "https://melt-js.github.io/libs-vue3-leva/index.html",
+        "https://melt-js.github.io/libs-vue3-leva/js/69.ce4aadd3.js.map",
+        "https://melt-js.github.io/libs-vue3-leva/js/app.28371c45.js.map"
       ],
       "srvModSrcList": [],
       "srvModSrcIndex": ""
     },
-    "html_content": "<!doctype html><html lang=\"\"><head><meta charset=\"utf-8\"/><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><title>@melt-js/libs-vue3-leva</title><script data-helappend=\"0\" src=\"https://unpkg.com/vue@3.5.44/dist/vue.global.prod.js\"></script><script defer=\"defer\" src=\"https://melt-js.github.io/libs-vue3-leva/hel_dist/js/app.c732a198.js\"></script></head><body><noscript><strong>We're sorry but @melt-js/libs-vue3-leva doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=\"app\"></div></body></html>",
-    "create_at": "2026-11-11T12:26:20.903Z",
+    "html_content": "<!doctype html><html lang=\"\"><head><meta charset=\"utf-8\"/><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><title>@melt-js/libs-vue3-leva</title><script data-helappend=\"0\" src=\"https://unpkg.com/vue@3.5.44/dist/vue.global.prod.js\"></script><script defer=\"defer\" src=\"https://melt-js.github.io/libs-vue3-leva/js/app.28371c45.js\"></script></head><body><noscript><strong>We're sorry but @melt-js/libs-vue3-leva doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=\"app\"></div></body></html>",
+    "create_at": "2026-11-11T12:53:42.731Z",
     "desc": "this version meta is created by hel-dev-utils@5.4.3"
   }
 }

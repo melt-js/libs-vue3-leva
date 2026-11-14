@@ -17,6 +17,16 @@
 
 	const dtlib = helLibProxy.exposeLib(LIB_NAME);
 
+	const DownloadExampleButton = dtlib.DownloadExampleButton;
+
+	const ScreenfullButton = dtlib.ScreenfullButton;
+	const DemoToolbar = dtlib.DemoToolbar;
+	const ComponentDocs = dtlib.ComponentDocs;
+
+	exports.ComponentDocs = ComponentDocs;
+	exports.DemoToolbar = DemoToolbar;
+	exports.DownloadExampleButton = DownloadExampleButton;
+	exports.ScreenfullButton = ScreenfullButton;
 	exports.default = dtlib;
 	exports.dtlib = dtlib;
 

@@ -3,32 +3,32 @@
     "name": "libs-vue3-leva",
     "app_group_name": "libs-vue3-leva",
     "git_repo_url": "",
-    "online_version": "2026.11.16-2",
-    "build_version": "2026.11.16-2",
+    "online_version": "2026.11.22",
+    "build_version": "2026.11.22",
     "platform": "unpkg",
-    "create_at": "2026-11-21T05:01:05.085Z"
+    "create_at": "2026-11-22T19:52:03.664Z"
   },
   "version": {
     "plugin_ver": "5.4.3",
     "extract_mode": "build",
     "sub_app_name": "libs-vue3-leva",
-    "sub_app_version": "libs-vue3-leva@2026.11.16-2",
-    "version_tag": "2026.11.16-2",
+    "sub_app_version": "libs-vue3-leva@2026.11.22",
+    "version_tag": "2026.11.22",
     "src_map": {
       "webDirPath": "/libs-vue3-leva/hel_dist",
       "htmlIndexSrc": "/libs-vue3-leva/hel_dist/index.html",
       "extractMode": "all",
       "iframeSrc": "",
       "chunkCssSrcList": [
-        "/libs-vue3-leva/hel_dist/css/196.4f8870d9.css",
+        "/libs-vue3-leva/hel_dist/css/196.4bafb1fb.css",
         "/libs-vue3-leva/hel_dist/css/964.1414d09b.css"
       ],
       "chunkJsSrcList": [
-        "/libs-vue3-leva/hel_dist/js/runtime.933eb0af.js",
-        "/libs-vue3-leva/hel_dist/js/vendor.9c41d174.js",
-        "/libs-vue3-leva/hel_dist/js/app.36966818.js",
-        "/libs-vue3-leva/hel_dist/js/196.15667bc4.js",
-        "/libs-vue3-leva/hel_dist/js/964.73df6fab.js"
+        "/libs-vue3-leva/hel_dist/js/runtime.1ad0756f.js",
+        "/libs-vue3-leva/hel_dist/js/vendor.3e946e2e.js",
+        "/libs-vue3-leva/hel_dist/js/app.aac5dc19.js",
+        "/libs-vue3-leva/hel_dist/js/196.b01552df.js",
+        "/libs-vue3-leva/hel_dist/js/964.fed9aa14.js"
       ],
       "staticCssSrcList": [],
       "staticJsSrcList": [
@@ -48,7 +48,7 @@
           "tag": "script",
           "append": true,
           "attrs": {
-            "src": "/libs-vue3-leva/hel_dist/js/runtime.933eb0af.js",
+            "src": "/libs-vue3-leva/hel_dist/js/runtime.1ad0756f.js",
             "defer": "defer"
           }
         },
@@ -56,7 +56,7 @@
           "tag": "script",
           "append": true,
           "attrs": {
-            "src": "/libs-vue3-leva/hel_dist/js/vendor.9c41d174.js",
+            "src": "/libs-vue3-leva/hel_dist/js/vendor.3e946e2e.js",
             "defer": "defer"
           }
         },
@@ -64,7 +64,7 @@
           "tag": "script",
           "append": true,
           "attrs": {
-            "src": "/libs-vue3-leva/hel_dist/js/app.36966818.js",
+            "src": "/libs-vue3-leva/hel_dist/js/app.aac5dc19.js",
             "defer": "defer"
           }
         }
@@ -76,8 +76,8 @@
       "srvModSrcList": [],
       "srvModSrcIndex": ""
     },
-    "html_content": "<!doctype html><html lang=\"\"><head><meta charset=\"utf-8\"/><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><title>@melt-js/libs-vue3-leva</title><script data-helappend=\"0\" src=\"https://unpkg.com/vue@3.5.44/dist/vue.global.prod.js\"></script><script defer=\"defer\" src=\"/libs-vue3-leva/hel_dist/js/runtime.933eb0af.js\"></script><script defer=\"defer\" src=\"/libs-vue3-leva/hel_dist/js/vendor.9c41d174.js\"></script><script defer=\"defer\" src=\"/libs-vue3-leva/hel_dist/js/app.36966818.js\"></script></head><body><noscript><strong>We're sorry but @melt-js/libs-vue3-leva doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=\"app\"></div></body></html>",
-    "create_at": "2026-11-21T05:01:05.085Z",
+    "html_content": "<!doctype html><html lang=\"\"><head><meta charset=\"utf-8\"/><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><title>@melt-js/libs-vue3-leva</title><script data-helappend=\"0\" src=\"https://unpkg.com/vue@3.5.44/dist/vue.global.prod.js\"></script><script defer=\"defer\" src=\"/libs-vue3-leva/hel_dist/js/runtime.1ad0756f.js\"></script><script defer=\"defer\" src=\"/libs-vue3-leva/hel_dist/js/vendor.3e946e2e.js\"></script><script defer=\"defer\" src=\"/libs-vue3-leva/hel_dist/js/app.aac5dc19.js\"></script></head><body><noscript><strong>We're sorry but @melt-js/libs-vue3-leva doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=\"app\"></div></body></html>",
+    "create_at": "2026-11-22T19:52:03.664Z",
     "desc": "this version meta is created by hel-dev-utils@5.4.3"
   }
 }

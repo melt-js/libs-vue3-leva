@@ -7,6 +7,10 @@
       "esm": "hel_dist/cdn/index.esm.mjs",
       "umd": "hel_dist/cdn/index.umd.cjs",
       "exports": [
+        "CodePlayground",
+        "CodePlaygroundDialog",
+        "CodePlaygroundEditor",
+        "CodePlaygroundRunner",
         "ComponentDocs",
         "DemoTabs",
         "DemoToolbar",

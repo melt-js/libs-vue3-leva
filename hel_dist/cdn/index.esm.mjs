@@ -22,7 +22,12 @@ const ComponentDocs = dtlib.ComponentDocs;
 const PropsPanel = dtlib.PropsPanel;
 const PropsPlayground = dtlib.PropsPlayground;
 
+const CodePlayground = dtlib.CodePlayground;
+const CodePlaygroundDialog = dtlib.CodePlaygroundDialog;
+const CodePlaygroundEditor = dtlib.CodePlaygroundEditor;
+const CodePlaygroundRunner = dtlib.CodePlaygroundRunner;
+
 const SplitPane = dtlib.SplitPane;
 const DemoTabs = dtlib.DemoTabs;
 
-export { ComponentDocs, DemoTabs, DemoToolbar, DownloadExampleButton, PropsPanel, PropsPlayground, ScreenfullButton, SplitPane, dtlib as default, dtlib };
+export { CodePlayground, CodePlaygroundDialog, CodePlaygroundEditor, CodePlaygroundRunner, ComponentDocs, DemoTabs, DemoToolbar, DownloadExampleButton, PropsPanel, PropsPlayground, ScreenfullButton, SplitPane, dtlib as default, dtlib };

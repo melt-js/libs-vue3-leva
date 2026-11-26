@@ -33,12 +33,14 @@
 
 	const SplitPane = dtlib.SplitPane;
 	const DemoTabs = dtlib.DemoTabs;
+	const DemoStage = dtlib.DemoStage;
 
 	exports.CodePlayground = CodePlayground;
 	exports.CodePlaygroundDialog = CodePlaygroundDialog;
 	exports.CodePlaygroundEditor = CodePlaygroundEditor;
 	exports.CodePlaygroundRunner = CodePlaygroundRunner;
 	exports.ComponentDocs = ComponentDocs;
+	exports.DemoStage = DemoStage;
 	exports.DemoTabs = DemoTabs;
 	exports.DemoToolbar = DemoToolbar;
 	exports.DownloadExampleButton = DownloadExampleButton;

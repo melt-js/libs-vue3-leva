@@ -12,6 +12,7 @@
         "CodePlaygroundEditor",
         "CodePlaygroundRunner",
         "ComponentDocs",
+        "DemoStage",
         "DemoTabs",
         "DemoToolbar",
         "DownloadExampleButton",

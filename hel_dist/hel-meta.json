@@ -6,7 +6,7 @@
     "online_version": "2026.11.22",
     "build_version": "2026.11.22",
     "platform": "unpkg",
-    "create_at": "2026-11-26T11:46:42.173Z"
+    "create_at": "2026-11-26T17:30:14.080Z"
   },
   "version": {
     "plugin_ver": "5.4.3",
@@ -20,15 +20,15 @@
       "extractMode": "all",
       "iframeSrc": "",
       "chunkCssSrcList": [
-        "/libs-vue3-leva/hel_dist/css/403.4dee2ce7.css",
-        "/libs-vue3-leva/hel_dist/css/845.dbfa0970.css"
+        "/libs-vue3-leva/hel_dist/css/403.b4097e6f.css",
+        "/libs-vue3-leva/hel_dist/css/845.0811f500.css"
       ],
       "chunkJsSrcList": [
-        "/libs-vue3-leva/hel_dist/js/runtime.e74f0379.js",
-        "/libs-vue3-leva/hel_dist/js/vendor.d3e41eea.js",
-        "/libs-vue3-leva/hel_dist/js/app.59cd3e8a.js",
-        "/libs-vue3-leva/hel_dist/js/403.c7ec6b56.js",
-        "/libs-vue3-leva/hel_dist/js/845.f1f591c3.js"
+        "/libs-vue3-leva/hel_dist/js/runtime.d3ff0a37.js",
+        "/libs-vue3-leva/hel_dist/js/vendor.6f711942.js",
+        "/libs-vue3-leva/hel_dist/js/app.5d6624c5.js",
+        "/libs-vue3-leva/hel_dist/js/403.d8d54432.js",
+        "/libs-vue3-leva/hel_dist/js/845.b0609682.js"
       ],
       "staticCssSrcList": [],
       "staticJsSrcList": [
@@ -48,7 +48,7 @@
           "tag": "script",
           "append": true,
           "attrs": {
-            "src": "/libs-vue3-leva/hel_dist/js/runtime.e74f0379.js",
+            "src": "/libs-vue3-leva/hel_dist/js/runtime.d3ff0a37.js",
             "defer": "defer"
           }
         },
@@ -56,7 +56,7 @@
           "tag": "script",
           "append": true,
           "attrs": {
-            "src": "/libs-vue3-leva/hel_dist/js/vendor.d3e41eea.js",
+            "src": "/libs-vue3-leva/hel_dist/js/vendor.6f711942.js",
             "defer": "defer"
           }
         },
@@ -64,7 +64,7 @@
           "tag": "script",
           "append": true,
           "attrs": {
-            "src": "/libs-vue3-leva/hel_dist/js/app.59cd3e8a.js",
+            "src": "/libs-vue3-leva/hel_dist/js/app.5d6624c5.js",
             "defer": "defer"
           }
         }
@@ -76,8 +76,8 @@
       "srvModSrcList": [],
       "srvModSrcIndex": ""
     },
-    "html_content": "<!doctype html><html lang=\"\"><head><meta charset=\"utf-8\"/><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><title>@melt-js/libs-vue3-leva</title><script data-helappend=\"0\" src=\"https://unpkg.com/vue@3.5.44/dist/vue.global.prod.js\"></script><script defer=\"defer\" src=\"/libs-vue3-leva/hel_dist/js/runtime.e74f0379.js\"></script><script defer=\"defer\" src=\"/libs-vue3-leva/hel_dist/js/vendor.d3e41eea.js\"></script><script defer=\"defer\" src=\"/libs-vue3-leva/hel_dist/js/app.59cd3e8a.js\"></script></head><body><noscript><strong>We're sorry but @melt-js/libs-vue3-leva doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=\"app\"></div></body></html>",
-    "create_at": "2026-11-26T11:46:42.173Z",
+    "html_content": "<!doctype html><html lang=\"\"><head><meta charset=\"utf-8\"/><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><title>@melt-js/libs-vue3-leva</title><script data-helappend=\"0\" src=\"https://unpkg.com/vue@3.5.44/dist/vue.global.prod.js\"></script><script defer=\"defer\" src=\"/libs-vue3-leva/hel_dist/js/runtime.d3ff0a37.js\"></script><script defer=\"defer\" src=\"/libs-vue3-leva/hel_dist/js/vendor.6f711942.js\"></script><script defer=\"defer\" src=\"/libs-vue3-leva/hel_dist/js/app.5d6624c5.js\"></script></head><body><noscript><strong>We're sorry but @melt-js/libs-vue3-leva doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=\"app\"></div></body></html>",
+    "create_at": "2026-11-26T17:30:14.080Z",
     "desc": "this version meta is created by hel-dev-utils@5.4.3"
   }
 }

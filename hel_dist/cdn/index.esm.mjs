@@ -29,5 +29,6 @@ const CodePlaygroundRunner = dtlib.CodePlaygroundRunner;
 
 const SplitPane = dtlib.SplitPane;
 const DemoTabs = dtlib.DemoTabs;
+const DemoStage = dtlib.DemoStage;
 
-export { CodePlayground, CodePlaygroundDialog, CodePlaygroundEditor, CodePlaygroundRunner, ComponentDocs, DemoTabs, DemoToolbar, DownloadExampleButton, PropsPanel, PropsPlayground, ScreenfullButton, SplitPane, dtlib as default, dtlib };
+export { CodePlayground, CodePlaygroundDialog, CodePlaygroundEditor, CodePlaygroundRunner, ComponentDocs, DemoStage, DemoTabs, DemoToolbar, DownloadExampleButton, PropsPanel, PropsPlayground, ScreenfullButton, SplitPane, dtlib as default, dtlib };
